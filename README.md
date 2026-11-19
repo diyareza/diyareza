@@ -10,7 +10,7 @@
 
 ---
 
-### `01 // ABOUT ME`
+### About Me
 
 Computer Science undergraduate at **SZABIST Islamabad** (`Class of 2027`), specializing in **backend web development**, **manual software testing**, and **foundational cybersecurity**. I architect multi-module applications in **Laravel, PHP, and MySQL**, backed by structured QA route verification, bug documentation, C++ data structures, and IoT prototyping.
 
@@ -20,7 +20,7 @@ Computer Science undergraduate at **SZABIST Islamabad** (`Class of 2027`), speci
 
 ---
 
-### `02 // TECHNICAL ARSENAL`
+### Technical Arsenal
 
 **Backend, Web & Core Programming**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -54,56 +54,66 @@ Computer Science undergraduate at **SZABIST Islamabad** (`Class of 2027`), speci
 
 ---
 
-### `03 // FEATURED ENGINEERING PROJECTS`
+### Featured Engineering Projects
 
-#### 1. 🏥 Medicine Expiry Tracking & Transfer System (METTS) — *Final Year Project*
-> **Stack:** `Laravel` · `PHP` · `Blade` · `Alpine.js` · `MySQL` · `Git/GitHub`
-- **Architecture:** A 12-module, 60-feature healthcare inventory platform built to eliminate pharmaceutical waste across clinic networks.
-- **Core Capabilities:** **FEFO (First-Expired, First-Out)** batch engine, QR/barcode stock scanning, inter-clinic redistribution workflows, role-based dashboards, and automated dual-channel (**SMS & Email**) alerts in English & Roman Urdu.
+#### 🏥 Medicine Expiry Tracking & Transfer System (METTS)
+![Flagship FYP](https://img.shields.io/badge/Type-Flagship_Final_Year_Project-8B5CF6?style=flat-square)
+![Scale](https://img.shields.io/badge/Architecture-12_Modules_%C2%B7_60_Features-0A66C2?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Laravel_%C2%B7_Blade_%C2%B7_Alpine.js_%C2%B7_MySQL-FF2D20?style=flat-square)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+An enterprise healthcare inventory platform engineered to eliminate pharmaceutical waste across multi-clinic networks through real-time batch tracking and automated stock redistribution.
 
-#### 2. 🏘️ Society Record System (WADZ)
-`C++` · `OOP` · `Custom Data Structures`
-- Console-based residential management system built from scratch without external databases.
-- **Doubly Linked List (`Resident`):** Dynamic CRUD operations (`add`, `update`, `delete`, `display`).
-- **Linked-List Stack (`Stack`):** LIFO archive (`push`, `pop`, `search`) for former residents, paired with linear search and recursive 2D reporting.
+<details>
+<summary><b>⚡ Click to inspect technical modules & architecture</b></summary>
+<br>
 
-</td>
-<td width="50%" valign="top">
+- **FEFO (First-Expired, First-Out) Engine:** Automatically prioritizes and dispatches medicine batches closest to expiration to minimize wastage.
+- **QR & Barcode Scanning:** Streamlines rapid stock intake, batch verification, and real-time audit logging for clinic staff.
+- **Inter-Clinic Transfer Workflow:** Automates matching and redistribution requests between clinics holding surplus near-expiry stock and high-demand clinics.
+- **Multilingual Dual-Channel Alerts:** Automated **SMS & Email** expiry notifications delivered in both **English and Roman Urdu**.
+- **Role-Based Dashboards:** Administrative analytics tracking inventory lifecycles, transfer logs, and waste-reduction metrics.
 
-#### 3. 🚗 Car Rental Management System
-`Multi-Module System Design` · `Role-Based Architecture`
-- Centralized fleet and booking platform with **5 dedicated roles** (Admin, Customer, Dealer, Accountant, Invoice Manager).
-- **Security & Ops:** Driver's license verification, encrypted payment data, pre-rental safety checklists, two-way ratings, utilization charts, and automated billing.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-#### 4. 🌐 Personal Developer & Security Portfolio
-`HTML5` · `CSS3` · `Vanilla JavaScript`
-- Custom-coded responsive portfolio deployed at [diyazehra.vercel.app](https://diyazehra.vercel.app) without site builders.
-- Features JS typewriter animations, structured technical case studies, and verified credentials.
+#### 🏘️ Society Record System (WADZ)
+![DSA Project](https://img.shields.io/badge/Type-Data_Structures_&_Algorithms-00599C?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-C++_%C2%B7_OOP_%C2%B7_Custom_Linked_Lists-004482?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+Console-based residential management system engineered from scratch in C++ without external database dependencies.
+- **Doubly Linked List (`Resident` Class):** Dynamic CRUD operations (`add_resident()`, `update_number()`, `delete_resident()`, `display_record()`) for active residents.
+- **Linked-List Stack (`Stack` Class):** LIFO archive (`push()`, `pop()`, `search_stack()`) for former residents, paired with linear search and recursive 2D reporting.
 
-#### 5. 🤖 RC Bluetooth-Controlled Car
-`Arduino` · `HC-05 Bluetooth` · `L298N Motor Driver`
-- Collaborative Applied Physics hardware prototype bridging electronics with wireless serial control.
-- Real-time directional smartphone commands mapped to dual H-bridge motor calibration.
+<br>
 
-</td>
-</tr>
-</table>
+#### 🚗 Car Rental Management System
+![System Design](https://img.shields.io/badge/Type-Multi--Module_Fleet_Platform-10B981?style=flat-square)
+![Architecture](https://img.shields.io/badge/Roles-Admin_%C2%B7_Customer_%C2%B7_Dealer_%C2%B7_Accountant-059669?style=flat-square)
+
+Centralized vehicle rental platform digitizing fleet bookings, renter verification, and automated financial billing across **5 role-based modules**.
+- **Security & Compliance:** Driver's license verification, background checks, encrypted payment handling, and digital rental agreements.
+- **Safety & Analytics:** Mandatory pre-rental inspection checklists, two-way rating system, fleet utilization charts, and automated invoice generation.
+
+<br>
+
+#### 🌐 Personal Developer & Cybersecurity Portfolio
+![Live](https://img.shields.io/badge/Live-diyazehra.vercel.app-EC4899?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-HTML5_%C2%B7_CSS3_%C2%B7_Vanilla_JS-E34F26?style=flat-square)
+
+Custom-engineered responsive portfolio built from scratch without drag-and-drop site builders—featuring dynamic JS typewriter animations, structured project case studies, and verified credentials.
+
+<br>
+
+#### 🤖 RC Bluetooth-Controlled Car
+![Hardware](https://img.shields.io/badge/Type-Embedded_&_IoT_Prototype-00979D?style=flat-square)
+![Components](https://img.shields.io/badge/Hardware-Arduino_%C2%B7_HC--05_%C2%B7_L298N_Motor_Driver-008080?style=flat-square)
+
+Collaborative Applied Physics hardware prototype bridging wireless serial communication with dual H-bridge DC motor calibration for real-time smartphone directional control.
 
 ---
 
-### `04 // GITHUB ANALYTICS`
+### GitHub Analytics
 
 <div align="center">
 
