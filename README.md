@@ -142,11 +142,33 @@ Collaborative Applied Physics hardware prototype bridging wireless serial commun
 
 ---
 
-### GitHub Analytics
+### GitHub Analytics & Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=diyareza&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyareza&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diyareza&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### Let's Connect & Collaborate
+
+<div align="center">
+
+**Open to Remote Backend Development (Laravel/PHP), Manual Software QA, and Junior Security Operations Roles.**
+
+[![Explore Portfolio](https://img.shields.io/badge/Explore_Full_Portfolio-diyazehra.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://diyazehra.vercel.app)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Diya_Zehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-zehra)
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-deyaraza786@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyaraza786@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=45&section=footer&text=Built%20with%20Precision%20%E2%80%A2%20Islamabad%2C%20Pakistan&fontSize=13&fontColor=38BDF8&stroke=30363D&strokeWidth=1" width="100%" />
 
 </div>
