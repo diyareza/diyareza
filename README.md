@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=120&section=header&text=DIYA%20ZEHRA&fontSize=38&fontColor=38BDF8&fontAlignY=48&stroke=30363D&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:0D1117&height=155&section=header&text=DIYA%20ZEHRA&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20Laravel%20Developer%20%20%E2%80%A2%20%20Software%20QA%20%20%E2%80%A2%20%20Cybersecurity&descSize=15&descColor=E2E8F0&descAlignY=66&stroke=38BDF8&strokeWidth=1" width="100%" />
 
 <a href="https://diyazehra.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=32&lines=Backend+Developer+(Laravel+%26+PHP)+%7C+Manual+Software+QA;Cybersecurity+Enthusiast+%7C+TryHackMe+%26+Cisco+NetAcad;B.S.+Computer+Science+('27)+%40+SZABIST+Islamabad" alt="Animated Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=30&lines=Building+12-Module+Enterprise+Systems+in+Laravel+%26+MySQL;Breaking+Production+Bugs+via+Manual+QA+%26+Route+Verification;Practicing+Defensive+Security+on+TryHackMe+%26+Cisco+NetAcad" alt="Animated Roles" />
 </a>
 
 <br/>
@@ -169,6 +169,6 @@ Collaborative Applied Physics hardware prototype bridging wireless serial commun
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=45&section=footer&text=Built%20with%20Precision%20%E2%80%A2%20Islamabad%2C%20Pakistan&fontSize=13&fontColor=38BDF8&stroke=30363D&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:0D1117&height=45&section=footer&text=Built%20with%20Precision%20%E2%80%A2%20Islamabad%2C%20Pakistan&fontSize=13&fontColor=38BDF8&stroke=38BDF8&strokeWidth=1" width="100%" />
 
 </div>
