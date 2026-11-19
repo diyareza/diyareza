@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:38BDF8,100:8B5CF6&height=180&section=header&text=Diya%20Zehra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20QA%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=120&section=header&text=DIYA%20ZEHRA&fontSize=38&fontColor=38BDF8&fontAlignY=48&stroke=30363D&strokeWidth=2" width="100%" />
+
+<a href="https://diyazehra.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=32&lines=Backend+Developer+(Laravel+%26+PHP)+%7C+Manual+Software+QA;Cybersecurity+Enthusiast+%7C+TryHackMe+%26+Cisco+NetAcad;B.S.+Computer+Science+('27)+%40+SZABIST+Islamabad" alt="Animated Roles" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-diyazehra.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://diyazehra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya_Zehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-zehra)
@@ -144,5 +150,3 @@ Collaborative Applied Physics hardware prototype bridging wireless serial commun
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyareza&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:38BDF8,100:0A66C2&height=100&section=footer" width="100%" />
