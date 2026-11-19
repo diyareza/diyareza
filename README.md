@@ -3,7 +3,7 @@
 *B.S. Computer Science Candidate (2027) — SZABIST Islamabad*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-diyazehra.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://diyazehra.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya_Zehra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/diya-zehra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya_Zehra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-zehra)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:deyaraza786@gmail.com)
 
 ---
