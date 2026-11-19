@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-diyazehra.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://diyazehra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya_Zehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-zehra)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyaraza786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-deyaraza786@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyaraza786@gmail.com)
 
 </div>
 
@@ -35,19 +35,22 @@ Computer Science undergraduate at **SZABIST Islamabad** (`Class of 2027`), speci
 **Database, QA & Dev Workflow**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 
-**Cybersecurity, Architecture & Design**  
+**Cybersecurity, Documentation & Design**  
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX_/_Overleaf-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-222222?style=for-the-badge&logo=uml&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Snapseed](https://img.shields.io/badge/Snapseed-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
