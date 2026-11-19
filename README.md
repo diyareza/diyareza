@@ -49,6 +49,34 @@
 
 ---
 
+### Experience
+
+#### 💼 Software Testing & Web Developer Intern — **K2 Peak Technologies (DPak)**
+![Duration](https://img.shields.io/badge/Duration-June_2025_%E2%80%93_December_2025-0A66C2?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Skardu,_Pakistan-10B981?style=flat-square)
+- Performed manual and end-to-end testing on production web applications.
+- Verified application routes and edge cases to ensure system stability.
+- Documented UI/UX issues and backend logic bugs for engineering resolution.
+- Assisted with debugging frontend routes, form validation, and database interactions.
+
+<br>
+
+#### 🎖️ Campus Head Ambassador — **Alkhidmat Foundation, SZABIST**
+![Duration](https://img.shields.io/badge/Duration-December_2024_%E2%80%93_Present-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Islamabad,_Pakistan-10B981?style=flat-square)
+- Coordinate student volunteer teams and campus-wide welfare campaigns.
+- Manage humanitarian activities, outreach drives, and event logistics.
+
+<br>
+
+#### 🤝 Summer Intern — **Alkhidmat Foundation, Islamabad**
+![Duration](https://img.shields.io/badge/Duration-Summer_2026-EC4899?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Research_&_Field_Operations-6366F1?style=flat-square)
+- Researched social organizations and compiled field data for community welfare programs.
+- Prepared structured operational reports and supported outreach activities.
+
+---
+
 ### Technical Arsenal
 
 **Backend, Web & Core Programming**  
