@@ -180,30 +180,12 @@ Collaborative Applied Physics embedded systems prototype featuring smartphone-co
 
 #### 📜 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🔐 **Diploma in Ethical Hacking**  
-  `Alison (CPD Certified)` · *Jan 2025*
-- 🛡️ **CyberGen Ethical Hacking Bootcamp**  
-  `GDG on Campus PIEAS` · *Hands-on Security*
-- 🌐 **Introduction to Cybersecurity**  
-  `Cisco Networking Academy` · *Nov 2024*
-
-</td>
-<td width="50%" valign="top">
-
-- 📡 **Introduction to Internet of Things (IoT)**  
-  `Cisco Networking Academy` · *Dec 2024*
-- 📊 **Introduction to Data Science**  
-  `Cisco Networking Academy` · *Dec 2024*
-- 🚀 **AI-Driven Innovation & Career Building**  
-  `Youth Insight (Summer Thrive 2.0)`
-
-</td>
-</tr>
-</table>
+* 🔐 **Diploma in Ethical Hacking** — *Alison (CPD Certified)* · `Jan 2025`
+* 🛡️ **CyberGen Ethical Hacking Bootcamp** — *Google Developer Groups on Campus PIEAS*
+* 🌐 **Introduction to Cybersecurity** — *Cisco Networking Academy* · `Nov 2024`
+* 📡 **Introduction to Internet of Things (IoT)** — *Cisco Networking Academy* · `Dec 2024`
+* 📊 **Introduction to Data Science** — *Cisco Networking Academy* · `Dec 2024`
+* 🚀 **AI-Driven Innovation & Career Building** — *Youth Insight (Summer Thrive 2.0)*
 ---
 
 ### GitHub Analytics & Activity
