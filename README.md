@@ -12,11 +12,34 @@
 
 ### About Me
 
-Computer Science undergraduate at **SZABIST Islamabad** (`Class of 2027`), specializing in **backend web development**, **manual software testing**, and **foundational cybersecurity**. I architect multi-module applications in **Laravel, PHP, and MySQL**, backed by structured QA route verification, bug documentation, C++ data structures, and IoT prototyping.
+![SZABIST](https://img.shields.io/badge/SZABIST_Islamabad-BS_CS_'27-0A66C2?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Islamabad,_Pakistan-10B981?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_%C2%B7_QA_%C2%B7_Cybersecurity-8B5CF6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Remote_Roles-EC4899?style=flat-square)
 
-- 💼 **Ex-Software Testing & Web Developer Intern — K2 Peak Technologies (DPak)** *(Jun 2025 – Dec 2025)*: Executed manual testing, route verification, edge-case validation, and bug documentation across production web applications.
-- 🎖️ **Leadership & Community:** Campus Head Ambassador for **Alkhidmat Foundation Islamabad** at SZABIST & Outreach Member at **MLSA SZABIST**.
-- 🛡️ **Continuous Security Practice:** Actively completing defensive security labs on **TryHackMe** and certifications via **Cisco Networking Academy**.
+> **I build structured backend systems in Laravel and test them like an attacker.**  
+> Computer Science undergraduate at **SZABIST Islamabad**, combining multi-module web architecture (`PHP`, `Laravel`, `MySQL`) with rigorous manual QA verification, `C++` data structures, and defensive security practice.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💻 Engineering & QA Track
+- 🏥 **Final Year Project Lead:** Architecting **METTS**, a 12-module healthcare inventory and expiry-redistribution platform.
+- 🧪 **Ex-QA & Web Dev Intern:** Tested production web apps, verified routes, and documented edge-case bugs at **K2 Peak Technologies (DPak)** *(Jun – Dec 2025)*.
+- ⚙️ **Systems & Hardware:** Built custom **C++ DSA** engines from scratch and **Arduino/Bluetooth** hardware prototypes.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ Security & Leadership Track
+- 🔐 **Defensive Security:** Practicing hands-on vulnerability labs on **TryHackMe** alongside **Cisco NetAcad** (Cybersecurity, IoT & Data Science).
+- 🎖️ **Campus Head Ambassador:** Leading student volunteer teams and welfare campaigns for **Alkhidmat Foundation Islamabad** at SZABIST.
+- 🌐 **Tech Community:** Outreach Team Member at **Microsoft Learn Student Ambassadors (MLSA SZABIST)**.
+
+</td>
+</tr>
+</table>
 
 ---
 
