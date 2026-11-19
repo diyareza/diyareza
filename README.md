@@ -180,12 +180,12 @@ Collaborative Applied Physics embedded systems prototype featuring smartphone-co
 
 #### 📜 Certifications
 
-* 🔐 **Diploma in Ethical Hacking** — *Alison (CPD Certified)* · `Jan 2025`
-* 🛡️ **CyberGen Ethical Hacking Bootcamp** — *Google Developer Groups on Campus PIEAS*
-* 🌐 **Introduction to Cybersecurity** — *Cisco Networking Academy* · `Nov 2024`
-* 📡 **Introduction to Internet of Things (IoT)** — *Cisco Networking Academy* · `Dec 2024`
-* 📊 **Introduction to Data Science** — *Cisco Networking Academy* · `Dec 2024`
-* 🚀 **AI-Driven Innovation & Career Building** — *Youth Insight (Summer Thrive 2.0)*
+![Alison](https://img.shields.io/badge/Diploma_in_Ethical_Hacking-Alison_(CPD_Certified)_·_Jan_2025-111827?style=for-the-badge&logo=shield&logoColor=38BDF8)
+![GDG](https://img.shields.io/badge/CyberGen_Ethical_Hacking_Bootcamp-GDG_on_Campus_PIEAS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cisco Cyber](https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco_NetAcad_·_Nov_2024-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco IoT](https://img.shields.io/badge/Introduction_to_IoT-Cisco_NetAcad_·_Dec_2024-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco DS](https://img.shields.io/badge/Introduction_to_Data_Science-Cisco_NetAcad_·_Dec_2024-312E81?style=for-the-badge&logo=cisco&logoColor=white)
+![Youth Insight](https://img.shields.io/badge/AI--Driven_Innovation_&_Career_Building-Youth_Insight_·_Summer_Thrive_2.0-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)
 ---
 
 ### GitHub Analytics & Activity
