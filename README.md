@@ -141,6 +141,14 @@ Collaborative Applied Physics embedded systems prototype featuring smartphone-co
 - **Wireless Serial Control:** Maps real-time Bluetooth commands from a mobile interface via the **HC-05 module** to an **Arduino** microcontroller.
 - **Motor Calibration:** Controls dual H-bridge DC motors through the **L298N Motor Driver** for directional steering and speed stability.
 
+
+#### 🔥 Fire Alarm System (Digital Logic Design)
+![Hardware](https://img.shields.io/badge/Type-Combinational_Logic_Circuit-00979D?style=flat-square)
+![Components](https://img.shields.io/badge/Hardware-74xx_Logic_Gate_ICs_%C2%B7_Heat/Flame_Sensor_%C2%B7_Breadboard_%C2%B7_Buzzer-008080?style=flat-square)
+
+Hardware hazard-detection prototype engineered in DLD lab using pure combinational boolean logic without a microcontroller.
+- **Gate-Level Thermal Alert:** Translates heat/flame sensor triggers into real-time buzzer and LED warnings using 74xx series logic gate ICs on a breadboard.
+
 ---
 
 ### Experience & Credentials
